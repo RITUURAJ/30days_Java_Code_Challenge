@@ -31,7 +31,7 @@ public class string {
 
 // Write a code Compare two string
 
-// import java.util.*;
+import java.util.*;
 
 public class string {
     public static void main(String[] args) {
@@ -57,3 +57,5 @@ public class string {
         System.out.println(name);
     }
 }
+
+Date - 04/10/2023
